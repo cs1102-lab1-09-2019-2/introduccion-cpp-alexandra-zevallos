@@ -1,9 +1,9 @@
 # Ejercicios usando c++
 
-Nombre:
+Nombre: Alexandra Amy Zevallos Carhuamaca
 --
 
-Github Username:
+Github Username: alexandra-zevallos
 --
 
 Instrucciones:
