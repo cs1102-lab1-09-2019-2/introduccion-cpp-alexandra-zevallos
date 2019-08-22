@@ -7,17 +7,21 @@ int main() {
     for (auto i : a) {
         // Imprimir los numeros
     }
+    return 0;
 }
-//No sabia porque colocaba vector<int>a
-//Cree un vector(array):
+
+
+//Modificaciones
 #include <iostream>
+#include <vector>
 using std::cout;
+using std::vector;
 
 int main() {
-    int a;
-    int vector[5]={1, 2, 3, 4, 5};
-    for (a=0; a<5; a++) {
-      cout<< vector[a]<<"\t";
-    } 
+
+    vector<int> a {1, 2, 3, 4, 5};
+    for (auto i : a) {
+        cout<< i<< "\t";
+    }
     return 0;
 }
