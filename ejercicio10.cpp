@@ -1,6 +1,9 @@
+//Modificaciones incluidas
+
 #include <iostream>
-using std::string;
+#include <string>
 using std::cout;
+using std::string;
 
 int main() {
     int a = 5;
