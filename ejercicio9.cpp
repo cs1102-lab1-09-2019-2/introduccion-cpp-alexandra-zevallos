@@ -9,7 +9,7 @@ int main() {
             //imprimir numeros pares verticalmente
             cout<< i<<"\n";
         }
-        i++;
+        ++i;
     }
-    return 0;
+  return 0;
 }
