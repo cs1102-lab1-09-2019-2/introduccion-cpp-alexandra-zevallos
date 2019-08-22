@@ -1,3 +1,5 @@
+//#include <iostream>
+//#include <cassert>
 
 bool esPalindromo(int n) {
     bool palindromo = true;
@@ -9,26 +11,29 @@ bool esPalindromo(int n) {
             break;
         }
     }
-
+  //return 0;
 }
 
 int main() {
 
-    if (esPalindromo(12321))
+    if (esPalindromo(12321)) {
         std::cout<<"Es Palindromo\n";
-    else
+    }
+    else {
         std::cout<<"No es Palindromo\n";
-
-    if (esPalindromo(1221))
+    }
+    if (esPalindromo(1221)) {
         std::cout<<"Es Palindromo\n";
-    else
+    }
+    else {
         std::cout<<"No es Palindromo\n";
-
-    if (esPalindromo(8594))
+    }
+    if (esPalindromo(8594)) {
         std::cout<<"Es Palindromo\n";
-    else
+    }
+    else {
         std::cout<<"No es Palindromo\n";
-
+    }
     int n;
     std::cout<<"Ingrese un numero: \n";
     std::cin>>n;
