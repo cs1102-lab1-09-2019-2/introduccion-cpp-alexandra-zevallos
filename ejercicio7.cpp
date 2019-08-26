@@ -1,10 +1,9 @@
-//Modificaciones incluidas
 #include <iostream>
 using std::cout;
 
 int main() {
      bool a;
-     a = true; // declarar tipo de dato
+     a = true;
      if (a) {
          cout << "Bien!!!";
      }
