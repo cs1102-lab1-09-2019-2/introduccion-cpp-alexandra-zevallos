@@ -1,5 +1,3 @@
-//Modificaciones incluidas
-
 #include <iostream>
 #include <string>
 using std::cout;
@@ -7,9 +5,7 @@ using std::string;
 
 int main() {
     int a = 5;
-    //Declarar una cadena
     string b;
-    //Inicializar la cadena b
     b = "Esto es una cadena";
     cout<<a<<"\n";
     cout<<b<<"\n";
