@@ -1,5 +1,11 @@
 # Ejercicios usando c++
 
+
+Nota:
+--
+alexandra-zevallos/..................12..................1..................12/13............18.46
+
+
 Nombre: Alexandra Amy Zevallos Carhuamaca
 --
 
